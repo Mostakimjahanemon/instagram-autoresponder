@@ -71,3 +71,4 @@ Please note that this project utilizes the [instagrapi]([https://github.com/subz
 Review Instagram's Policy: Before using the autoresponder, it's crucial to review Instagram's Platform Policy and Community Guidelines to ensure compliance and avoid potential violations.
 Consider Privacy and Security: Be mindful of the security implications of storing and using Instagram credentials in scripts or applications. Ensure that your implementation follows best practices for data security and privacy.
 Stay Updated: Since this relies on an unofficial library, be prepared for the possibility of future changes to Instagram's API affecting the functionality of your autoresponder. Keep the library and your scripts updated and monitor for any announcements from the library maintainers regarding compatibility or new features.
+m
