@@ -1,2 +1,2 @@
-instagrapi
-Pillow
+insflask
+requests
